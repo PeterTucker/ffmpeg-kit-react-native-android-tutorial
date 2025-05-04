@@ -164,7 +164,7 @@ npx react-native start --reset-cache
 ```
 **Clean and Launch App:**
 
-In 2nd terminal window:
+In 2nd terminal window (takes a while to compile, so be patient):
 ```bash
 cd android
 ./gradlew clean
